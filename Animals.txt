@@ -3,3 +3,5 @@ Blue
 Scout
 Rocket
 Steve
+Monty
+Mocha
